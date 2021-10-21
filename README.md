@@ -1,1 +1,3 @@
-# info2180-Iab2
+# info2180-lab2
+
+This is lab 2 for Tiffany Thomas.
